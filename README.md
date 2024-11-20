@@ -10,7 +10,10 @@ Python scripts that produce and consume avro events from a kafka broker obeying 
 
 1 - Clone this repository to your environment:
 
+  git clone https://github.com/tlcharchar/py_kafka_pub_sub_avro.git
+  (You will have a $CLONED_REPOSITORY in your environment)
 
+  
 2 - Turn the project repository you cloned into a Python Virtual Environment. You must have Python installed in your environment:
 
   python -m venv $CLONED_REPOSITORY
